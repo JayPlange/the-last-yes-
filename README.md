@@ -85,8 +85,8 @@ The benchmark runtime uses only the Python standard library. No API key is neede
 Clone the repository and enter its directory:
 
 ```bash
-git clone https://github.com/<YOUR-USERNAME>/the-last-yes.git
-cd the-last-yes
+git clone https://github.com/JayPlange/the-last-yes-.git
+cd the-last-yes-
 ```
 
 Install the development dependency and run the offline checks:
@@ -175,4 +175,5 @@ ChatGPT was used extensively to assist with benchmark design, implementation, te
 
 ## License
 
-No license has been added because the project author has not yet selected one. Until a license is added, GitHub's default copyright rules apply; do not assume others have permission to reuse, modify, or redistribute this code.
+This project is licensed under the Apache License 2.0.
+See the LICENSE file for the full licence text.
