@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Local secrets and environment
+.env
+.env.*
+!.env.example
+
+# Local run outputs (committed benchmark evidence is retained)
+results/run-*.json
+*.log
+.DS_Store
+Thumbs.db

@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this benchmark, please cite it as follows."
+title: "The Last Yes: A Synthetic Benchmark for Transaction-Authorisation Integrity"
+authors:
+  - family-names: Plange
+    given-names: Justice Edwin Mensah
+version: 0.1.9
+date-released: 2026-11-08
+type: software
+abstract: >-
+  A synthetic benchmark for evaluating transaction-authorisation integrity
+  in tool-using conversational commerce agents. It includes task suites,
+  a local simulator, deterministic grading, reference traces, tests, and
+  raw model-evaluation reports.
